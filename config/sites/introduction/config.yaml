@@ -6,44 +6,44 @@ errorHandling:
     errorContentSource: 't3://page?uid=5'
 languages:
   -
-    title: English
+    title: Français
     enabled: true
     languageId: 0
     base: /
     typo3Language: default
-    locale: en_US.UTF-8
-    iso-639-1: en
-    navigationTitle: English
-    hreflang: en-US
+    locale: fr_CH.UTF-8
+    iso-639-1: fr
+    navigationTitle: Français
+    hreflang: fr-CH
     direction: ''
-    flag: us
+    flag: fr
   -
-    title: Dansk
+    title: Deutsch
     enabled: true
     languageId: 2
-    base: /da/
-    typo3Language: da
-    locale: da_DK.UTF-8
-    iso-639-1: da
-    navigationTitle: Dansk
-    hreflang: da-DK
+    base: /de/
+    typo3Language: de
+    locale: de_CH.UTF-8
+    iso-639-1: de
+    navigationTitle: Deutsch
+    hreflang: de-CH
     direction: ''
     fallbackType: fallback
     fallbacks: ''
-    flag: dk
+    flag: de
   -
-    title: German
+    title: Italiano
     enabled: true
     languageId: 1
-    base: /de/
-    typo3Language: de
-    locale: de_DE.UTF-8
-    iso-639-1: de
-    navigationTitle: Deutsch
-    hreflang: de-DE
+    base: /it/
+    typo3Language: it
+    locale: it_CH.UTF-8
+    iso-639-1: it
+    navigationTitle: Italiano
+    hreflang: it-CH
     direction: ''
     fallbackType: fallback
-    fallbacks: '1,0'
-    flag: de
+    fallbacks: ''
+    flag: it
 rootPageId: 1
-websiteTitle: 'TYPO3 Introduction Package'
+websiteTitle: 'Non Nein No'
