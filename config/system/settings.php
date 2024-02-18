@@ -115,6 +115,8 @@ return [
         'transport_smtp_password' => '',
         'transport_smtp_server' => '',
         'transport_smtp_username' => '',
+        'defaultMailFromAddress' => 'editions@non-nein-no.ch',
+        'defaultMailFromName' => 'Association Non Nein No',
     ],
     'SYS' => [
         'UTF8filesystem' => true,
