@@ -28,9 +28,10 @@ languages:
     navigationTitle: Deutsch
     hreflang: de-CH
     direction: ''
-    fallbackType: fallback
+    fallbackType: strict
     fallbacks: ''
     flag: de
+    websiteTitle: ''
   -
     title: Italiano
     enabled: true
@@ -42,8 +43,9 @@ languages:
     navigationTitle: Italiano
     hreflang: it-CH
     direction: ''
-    fallbackType: fallback
+    fallbackType: strict
     fallbacks: ''
     flag: it
+    websiteTitle: ''
 rootPageId: 1
 websiteTitle: 'Non Nein No'
